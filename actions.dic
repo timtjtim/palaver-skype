@@ -1,0 +1,25 @@
+<s,S>kype
+  skype 'skype'
+
+<r,R>un skype
+  skype 'skype'
+
+<l,L>aunch skype
+  skype 'skype'
+
+<q,Q>uit skype
+  skype 'killall -9 skype'
+
+<s,S>kype call to (LINE username)
+  skype 'skype --call $username$'
+
+<s,S>kype call (LINE username)
+  skype 'skype --call $username$'
+
+<c,C>all to (LINE username)
+  skype 'skype --call $username$'
+
+<c,C>all (LINE username)
+  skype 'skype --call $username$'
+
+

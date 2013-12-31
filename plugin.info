@@ -1,0 +1,13 @@
+name = SkypeControls
+version = 1.1
+description = Launch file folders
+file = skype
+author = Tim Hitchins
+actions = 
+Skype, launches skype
+Run skype, launches skype
+Launch skype, launches skype
+Quit skype, quits skype
+Skype call to (username), calls (username)
+Skype call  (username), calls (username)
+Call (username), calls (username)
